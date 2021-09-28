@@ -55,7 +55,7 @@
   Enter Password:
   mysql> SHOW SCHEMAS;
   mysql> CREATE DATABASE hr;
-  mysql> SHOW SCHEAMS;
+  mysql> SHOW SCHEMAS;
   mysql> USE hr;
   mysql> CREATE TABLE employees
          (
